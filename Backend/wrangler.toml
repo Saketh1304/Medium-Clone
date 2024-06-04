@@ -2,8 +2,8 @@ name = "medium-clone"
 compatibility_date = "2023-12-01"
 
  [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMWZlYjA0MzAtYTI5Ny00ZWJmLThkYWUtNjQ4MDQ3NjUzODQwIiwidGVuYW50X2lkIjoiZDQxMjY5YWZjODc3ZWY3ZDE1Mjg1ODk2NzJlN2ViYWU5YTdkYjJjNTgyZWJhMzYzZmUyY2E5YWQ2MzcxNmNmOCIsImludGVybmFsX3NlY3JldCI6ImE3Y2Q2NGVhLTQ1NGYtNGU5Ni1iMDUxLTBiNWNiNDNjZWZhNCJ9.f7dkFtC-GlmavkYclIkfu3138ecFSwM4PThi-WgFbM8"
-JWT_SECRET="sakethsecret"
+DATABASE_URL=""
+JWT_SECRET=""
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
