@@ -1,7 +1,6 @@
 {
-  "name": "@saketh_13/medium-common",
+  "name": "@saketh_13/mediumclone-common",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "zod": "^3.23.8"
   }
